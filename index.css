@@ -1,9 +1,7 @@
-body {
-    font-family: Arial, sans-serif;
-    margin: 0;
+h1{
     text-align: center;
-    background-image: linear-gradient(to bottom right, white, green);
 }
+
 
 #current-movie {
     display: flex;
@@ -42,11 +40,8 @@ img:hover{
   }
   
 #buy-ticket:hover {
-    background-color: #4CAF50; /* Green */
+    background-color:darkred;
     color: white;
     border-radius: 8px;
     border: none;
   }
-/* .container {
-    padding: 2px 16px;
-  } */

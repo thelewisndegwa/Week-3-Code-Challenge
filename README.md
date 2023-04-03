@@ -1,1 +1,4 @@
-# Week-3-Code-Challenge
+# Flatdango Web App
+
+Flatdango is a JavaScript web app that allows a user to purchase movie tickets from the theater. When the website loads, the first movie (with id:1) will automatically be displayed as the selected movie. The User can see details about the movie such as its, Poster, Title, Runtime, Showtime, and Available tickets. The available tickets is gotten by subtracting the tickets sold from the theater capacity. When a user buys a ticket by clicking on the Buy Ticket button, the number of available tickets reduces by 1. When there are no more available tickets, the button text changes to Sold Out and it prevents the user from purchasing any more tickets. A user can click on any movie poster so that it shows in the Selected movie section and displays more details about the movie.
+

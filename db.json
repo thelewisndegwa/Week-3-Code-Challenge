@@ -1,0 +1,58 @@
+{
+    "films": [
+      {
+        "id": "1",
+        "title": "Spiderman ",
+        "runtime": "108",
+        "capacity": 30,
+        "showtime": "04:00PM",
+        "tickets_sold": 27,
+        "poster": "spiderman.jpg"
+      },
+      {
+        "id": "2",
+        "title": "Rick and Morty",
+        "runtime": "118",
+        "capacity": 50,
+        "showtime": "06:45PM",
+        "tickets_sold": 44,
+        "poster": "rick&morty.jpg"
+      },
+      {
+        "id": "3",
+        "title": "Avengers",
+        "runtime": "93",
+        "capacity": 50,
+        "showtime": "09:30PM",
+        "tickets_sold": 31,
+        "poster": "avengers.jpg"
+      },
+      {
+        "id": "4",
+        "title": "John Wick",
+        "runtime": "101",
+        "capacity": 40,
+        "showtime": "09:00PM",
+        "tickets_sold": 31,
+        "poster": "JohnWick.jpeg"
+      },
+      {
+        "id": "5",
+        "title": "Ice Age",
+        "runtime": "96",
+        "capacity": 50,
+        "showtime": "03:30PM",
+        "tickets_sold": 45,
+        "poster": "IceAge.jpg"
+      },
+      {
+        "id": "6",
+        "title": "Family Guy",
+        "runtime": "112",
+        "capacity": 30,
+        "showtime": "10:30PM",
+        "tickets_sold": 16,
+        "poster": "Familyguy.jpg"
+      }
+    ]
+  }
